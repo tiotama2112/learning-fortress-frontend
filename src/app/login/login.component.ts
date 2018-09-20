@@ -17,6 +17,7 @@ import { AuthService } from "../auth/auth.service";
     `,
     styleUrls: ['./login.component.scss']
 })
+
 export class LoginComponent {
     userType: number;
 
